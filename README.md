@@ -8,10 +8,6 @@ Estoy especializada dentro del sector industrial en el área de SHE
 Actualmente vivo en Toluca, Estado de México
 Siempre busco aprender cosas nuevas y prepararme mejor profesionalmente.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liioh&label=Profile%20views&color=0e75b6&style=flat" alt="liioh" /> </p>
-
-<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=liioh" alt="liioh" /></a> </p>
-
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://instagram.com/liz.oh " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="liz.oh" height="30" width="40" /></a>
