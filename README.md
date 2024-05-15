@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![header]()
 
-#About me
+<h3 aling="left">Acerca de mi:</h3>
 <h1 align="center">¡Soy Ingeniera Inudstrial y de Sistemas</h1>
-<h2 align="center">Actualmente vivo en Toluca, Estado de México</h2>
+<h2 align="left">Actualmente vivo en Toluca, Estado de México</h2>
 <h3 aling="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liioh&label=Profile%20views&color=0e75b6&style=flat" alt="liioh" /> </p>
