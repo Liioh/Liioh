@@ -5,8 +5,8 @@
 <h3 aling="left">Acerca de mi:</h3>
 <h1 align="center">Soy Ingeniera Industrial y de Sistemas</h1>
 Estoy especializada dentro del sector industrial en el área de SHE
-Actualmente vivo en Toluca, Estado de México
-Siempre busco aprender cosas nuevas y prepararme mejor profesionalmente.
+Actualmente estoy trabajando dentro del sector educativo en la coordinación de las escuelas profesionales de ingeniería
+Busco prepararme profesionalmente dentro del .
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
