@@ -11,6 +11,7 @@ Busco prepararme profesionalmente dentro del .
 <p align="left">
 <a href="https://instagram.com/liz.oh " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="liz.oh" height="30" width="40" /></a>
 </p>
+<p alig="center">
 <a href="mailto:orheliz@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
