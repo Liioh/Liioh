@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header]()
+![header](/12.png)
 
 <h3 aling="left">Acerca de mi:</h3>
 <h1 align="center">¡Soy Ingeniera Inudstrial y de Sistemas</h1>
