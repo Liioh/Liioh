@@ -3,7 +3,7 @@
 ### Hi👋
 
 <h3 aling="left">Acerca de mi:</h3>
-<h1 align="center">¡Soy Ingeniera Inudstrial y de Sistemas</h1>
+<h1 align="center">¡Soy Ingeniera Industrial y de Sistemas</h1>
 <h2 align="left">Actualmente vivo en Toluca, Estado de México</h2>
 <h3 aling="center"></h3>
 
