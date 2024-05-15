@@ -3,8 +3,10 @@
 ### Hi👋
 
 <h3 aling="left">Acerca de mi:</h3>
-<h1 align="center">¡Soy Ingeniera Industrial y de Sistemas</h1>
-# Actualmente vivo en Toluca, Estado de México
+<h1 align="center">Soy Ingeniera Industrial y de Sistemas</h1>
+Estoy especializada dentro del sector industrial en el área de SHE
+Actualmente vivo en Toluca, Estado de México
+Siempre busco aprender cosas nuevas y prepararme mejor profesionalmente.
 <h3 aling="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liioh&label=Profile%20views&color=0e75b6&style=flat" alt="liioh" /> </p>
