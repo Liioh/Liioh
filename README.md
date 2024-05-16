@@ -4,7 +4,7 @@
 
 <h3 aling="left">Acerca de mi:</h3>
 <h1 align="center">Ingeniera Industrial y de Sistemas</h1>
-<p align="center"> Actualmente me encuentro laborando dentro del sector educativo, en la coordinación de es ingeniería, tengo conocimientos en normativa de SHE, primeros auxilios, busqueda y rescate y combate contra incednios, a su vez, tengo conocimientos en programación, rama en la cual me gustaria comenzar a desempeñarme. </p>
+<p align="center"> Actualmente me encuentro laborando dentro del sector educativo, en la coordinación de ingeniería, tengo conocimientos en normativa de SHE, primeros auxilios, busqueda y rescate y combate contra incednios, a su vez, tengo conocimientos en programación, rama en la cual me gustaria comenzar a desempeñarme. </p>
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
