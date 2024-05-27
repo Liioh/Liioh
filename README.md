@@ -4,7 +4,7 @@
 
 <h3 aling="left">Acerca de mi:</h3>
 <h1 align="center">Ingeniera Industrial y de Sistemas</h1>
-<p align="center"> Actualmente me encuentro laborando dentro del sector educativo, en la coordinación de ingeniería, tengo conocimientos en normativa de SHE, primeros auxilios, busqueda y rescate y combate contra incednios, a su vez, tengo conocimientos en programación, rama en la cual me gustaria comenzar a desempeñarme. </p>
+<p align="center"> Con experiencia en Seguridad e Higiene Industrial. Actualmente me desempeño en el sector educativo, específicamente en el área administrativa de las ingenierías. Además, soy parte activa de una brigada de protección civil, donde aplico todos los conocimientos adquiridos para garantizar la seguridad en mi entorno laboral. Paralelamente, estoy inmersa en un proceso de capacitación en el mundo de la tecnología, enfocándome específicamente en el desarrollo de Frontend. Esta combinación de habilidades no solo me permite contribuir a una gestión eficiente en las escuelas de ingeniería, sino que también me prepara para contribuir al avance tecnológico y promover entornos más seguros y avanzados tecnológicamente.. </p>
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
